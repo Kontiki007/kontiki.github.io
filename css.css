@@ -12,4 +12,5 @@
 .container-fluid {
 	background-image: url('https://kontiki007.github.io/kontiki.github.io/dinosaur.gif');
 	background-repeat: none;
+	min-height: 100%;
 }
