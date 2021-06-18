@@ -9,11 +9,7 @@
 	border-radius: 0.3em;
 }
 
-.jumbotron {
-	width: 200px
-}
-
-.jumbotron img {
-	display: block;
-	object-fit: contain;
+.container-fluid {
+	background-image: url('dinosaur.gif');
+	background-transparency: 0.8;
 }
