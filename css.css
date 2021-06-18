@@ -1,9 +1,9 @@
-  .col-10 {
+  .col-lg-10 {
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
 
-.col-12 {
+.col-lg-12 {
 	padding: 1em;
 	border: 0.5px solid #e3e3e3;
 	border-radius: 0.3em;
