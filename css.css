@@ -10,8 +10,12 @@
 }
 
 .container-fluid {
-	background-image: url('https://kontiki007.github.io/kontiki.github.io/dinosaur.gif');
-	background-repeat: none;
+	background-image: url('https://kontiki007.github.io/kontiki.github.io/dinosaur.gif') no-repeat center center fixed;
 	background-size: cover;
-	margin-bottom:  -1;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+	z-index: 10;
 }
